@@ -1,0 +1,22 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <TestDir>../XmlHanderTest</TestDir>
+    <Configuration>Test</Configuration>
+  </PropertyGroup>
+  
+    
+  <Target Name="Build" DependsOnTargets="Test" Condition="$(Configuration) == 'Test'">
+    <Message Text="Starting Build for $(Configuration)..." />
+    <Exec Command="dotnet build --configuration $(Configuration)"  />
+    <MSBuild Projects="../XmlHandler.sln" />
+
+    
+  </Target>
+
+  <Target Name="Test" Condition="$(Configuration) == 'Test'">
+    <Message Text="Starting Test for $(Configuration)..." />
+    <Exec Command="dotnet test -l:trx;LogFileName=output/mytests.xml" WorkingDirectory="$(TestDir)"/>
+  </Target>
+
+</Project>

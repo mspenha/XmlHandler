@@ -1,0 +1,13 @@
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\bin\Debug\netcoreapp3.1\XmlHandler.exe
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\bin\Debug\netcoreapp3.1\XmlHandler.deps.json
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\bin\Debug\netcoreapp3.1\XmlHandler.runtimeconfig.json
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\bin\Debug\netcoreapp3.1\XmlHandler.runtimeconfig.dev.json
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\bin\Debug\netcoreapp3.1\XmlHandler.dll
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\bin\Debug\netcoreapp3.1\XmlHandler.pdb
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.csprojAssemblyReference.cache
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.AssemblyInfoInputs.cache
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.AssemblyInfo.cs
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.dll
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.pdb
+C:\Users\Marcos Penha\Documents\Curso .Net\XmlHandler\XmlHandler\obj\Debug\netcoreapp3.1\XmlHandler.genruntimeconfig.cache

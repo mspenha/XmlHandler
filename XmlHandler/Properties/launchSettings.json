@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlHandler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\Users\\\\Marcos Penha\\\\Documents\\\\Curso .Net\\\\XmlHandler\\\\XmlHandler\\\\students.xml\" \"highest-grade\""
+    }
+  }
+}
