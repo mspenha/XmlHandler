@@ -8,7 +8,7 @@ namespace XmlHandler
 		static void Main(string[] args)
 		{
 			StudentService studentService = new StudentService();
-			//dummy commit
+
 			switch (args[1]) {
 				case "highest-grade":
 					Console.WriteLine(studentService.highestGrade(args[0]));
