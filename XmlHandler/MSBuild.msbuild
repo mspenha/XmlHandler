@@ -8,6 +8,7 @@
     
   <Target Name="Build" DependsOnTargets="Test" Condition="$(Configuration) == 'Test'">
     <Message Text="Starting Build for $(Configuration)..." />
+    <Exec Command="if exist bin rmdir bin /q /s" WorkingDirectory="XmlHander"/>
     <Exec Command="dotnet build --configuration $(Configuration)"  />
     <MSBuild Projects="../XmlHandler.sln" />
   </Target>
