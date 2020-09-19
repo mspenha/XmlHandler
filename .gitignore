@@ -1,5 +1,7 @@
+.vs
 XmlHandler/bin
+XmlHandler/obj
 XmlHandlerTest/bin
+XmlHandlerTest/obj
 XmlHandlerTest/TestResults
 XmlHandlerTest/.vs
-.vs
