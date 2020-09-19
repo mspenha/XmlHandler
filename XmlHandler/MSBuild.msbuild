@@ -1,14 +1,14 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
   <PropertyGroup>
-    <TestDir>../XmlHanderTest</TestDir>
+    <TestDir>../XmlHandlerTest</TestDir>
     <Configuration>Test</Configuration>
   </PropertyGroup>
   
     
   <Target Name="Build" DependsOnTargets="Test" Condition="$(Configuration) == 'Test'">
     <Message Text="Starting Build for $(Configuration)..." />
-    <Exec Command="if exist bin rmdir bin /q /s" WorkingDirectory="XmlHander"/>
+    <Exec Command="if exist bin rmdir bin /q /s"/>
     <Exec Command="dotnet build --configuration $(Configuration)"  />
     <MSBuild Projects="../XmlHandler.sln" />
   </Target>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj": {}
+    "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj": {
+    "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj",
+        "projectUniqueName": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj",
         "projectName": "XmlHandlerTest",
-        "projectPath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj",
+        "projectPath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj",
         "packagesPath": "C:\\Users\\Marcos Penha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\obj\\",
+        "outputPath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcos Penha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj": {
-                "projectPath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj"
+              "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj": {
+                "projectPath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj": {
+    "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj",
+        "projectUniqueName": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj",
         "projectName": "XmlHandler",
-        "projectPath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj",
+        "projectPath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj",
         "packagesPath": "C:\\Users\\Marcos Penha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\obj\\",
+        "outputPath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcos Penha\\AppData\\Roaming\\NuGet\\NuGet.Config",

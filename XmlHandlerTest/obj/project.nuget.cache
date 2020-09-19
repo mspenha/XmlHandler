@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XGG5QTMZS+Rn3Yskjc9QbUHYll7VR34jU0BFqbNfW5H9VKuvOEI4iC3+FoxJe76JH4YW++l1NY5/Utk6DmMCFg==",
+  "dgSpecHash": "uNLgheKy8JVriP7HZJWmw5VSAruQUuSEf7OnM+GOPpFfZ1UZQDh8rHW6Q4/QSB7G3mouJWCkk8x2w9GKV8wAxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj",
+  "projectFilePath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHanderTest\\XmlHandlerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ELifHPi1VhkhdhYyfcFti4HlFA8iND0h/rrxh96KDOb7MigKAW4oa5qpl05/hT7v526HrWRSq0zicmEoIVUleA==",
+  "dgSpecHash": "UdrO4k8zl1IZ1W/dZVwOlofOYCzgg7QDBtclWszC4jT6XRgBbSq2vLbxENj944V6beG3XSDU7JYnko85lw6Qqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj",
+  "projectFilePath": "c:\\Users\\Marcos Penha\\Documents\\Curso .Net\\XmlHandler\\XmlHandler\\XmlHandler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -91,8 +91,8 @@
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.7.nupkg.sha512",
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.7\\microsoft.netcore.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.7.nupkg.sha512",
     "C:\\Users\\Marcos Penha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x64.3.1.7.nupkg.sha512"
   ],
   "logs": []
