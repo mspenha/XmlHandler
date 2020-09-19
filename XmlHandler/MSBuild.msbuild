@@ -14,6 +14,7 @@
 
   <Target Name="Test" DependsOnTargets="WriteMessage" Condition="$(Configuration) == 'Test'">
     <Message Text="Starting Test for $(Configuration)..." />
+    <Exec Command="if exist TestResults rmdir TestResults /q /s" WorkingDirectory="$(TestDir)"/>
     <Exec Command="dotnet test -l:trx;LogFileName=output/mytests.xml" WorkingDirectory="$(TestDir)"/>
   </Target>
 
