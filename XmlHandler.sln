@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlHandler", "XmlHandler\XmlHandler.csproj", "{93AA19AE-6BA8-4C3F-A774-714BE4DEC621}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlHandlerTest", "XmlHanderTest\XmlHandlerTest.csproj", "{0B2E1E39-1BBC-485C-B3F8-339E6597964D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlHandlerTest", "XmlHandlerTest\XmlHandlerTest.csproj", "{0B2E1E39-1BBC-485C-B3F8-339E6597964D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
